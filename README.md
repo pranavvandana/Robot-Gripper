@@ -1,2 +1,2 @@
 # Spotify-Display
-A simple display that shows my currently playing Spotify track with ESP32.
+This will be the hand of a robotic arm, designed to grasp, hold, move, and release objects with precision and control.
