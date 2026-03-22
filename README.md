@@ -37,7 +37,7 @@ I worked on adding the electorinc portions of the gripper. For example, the elec
 ![image](https://stasis.hackclub-assets.com/images/1774160670789-8ku7yf.png)
 ![image](https://stasis.hackclub-assets.com/images/1774160753625-znxmxh.png)
 
-# 3/22/2026 6 AM - Robot Gripper Assembly and Animation
+# 3/22/2026 12 AM - Robot Gripper Assembly and Animation
 
 _Time spent: 2h_
 
