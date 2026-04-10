@@ -3,7 +3,7 @@ This will be the hand of a robotic arm, designed to grasp, hold, move, and relea
 
 The reason why I chose this project is because it gives me an intro to robotics. Not just that, it was the correct choice for a beginner project if I wanted to get an overview of what hardware really is. Also, it had a really simple design tutorial for Onshape and Onshape is the most simple CAD Software I use. I mostly use OnShape for my work since it runs on browser and I don't have to do any installations, making my life easier.
 
-<img width="887" height="574" alt="Screenshot 2026-03-21 at 10 20 52 PM" src="https://github.com/user-attachments/assets/a9131773-b94b-4104-bfdd-9a438c7cce3e" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/73a7faa7-6135-45f2-a465-5bcdb724aa04" />
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/56a8d8a7-f461-46c9-9724-7d9be609c01f" />
 
