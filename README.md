@@ -75,3 +75,26 @@ I connected all components using jumper wires exactly as designed in Tinkercad.
 
 Step 6: Test and Adjust
 Finally, I powered the system and tested movement, making small adjustments to alignment if needed.
+
+**4. Programming the Servo in Arduino IDE (Software Tutorial)**
+
+To control the gripper, I used Arduino IDE to write and upload code to the microcontroller.
+
+Step 1: Set Up the Environment
+I installed the Arduino IDE and connected my controller (or an Arduino Uno for testing) to my computer using a USB cable. Then, I selected the correct board and port from the Tools menu.
+
+Step 2: Import the Servo Library
+I included the built-in Servo library, which allows easy control of the servo motor using PWM signals.
+
+Step 3: Write the Control CodeW
+I wrote a simple program to move the servo between two positions, which will open and close the gripper:
+<img width="1528" height="712" alt="image" src="https://github.com/user-attachments/assets/6114b068-cd6a-4933-812e-9a9cb5334359" />
+
+Step 4: Upload the Code
+I clicked the upload button in the Arduino IDE to send the program to the controller. Once uploaded, the servo begins moving automatically.
+
+Step 5: Test and Adjust
+I tested the movement of the gripper and adjusted the angles in the code (for example, changing 0 and 90 to better fit the mechanical range of the gripper).
+
+Step 6: Integrate with Hardware
+After confirming the servo worked correctly, I used the same code with my actual Seeed Studio XIAO RP2040, ensuring the signal pin matched my wiring setup.
