@@ -6,6 +6,8 @@ The reason why I chose this project is because it gives me an intro to robotics.
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8b79a8f5-ed96-4b33-a8f8-ac65fe9da1a6" />
 
+https://cad.onshape.com/documents/6f604da02b54153c1e8cac68/w/a82c225a0ed2f071b5ea0c98/e/64383b0489914010158d26b3?renderMode=0&uiState=69ed2fd9afe469fc4d99cb7d
+
 **1. Placing and Designing Parts in Onshape (Assembly Tutorial)**
 
 Using Onshape, I followed a structured approach to placing each component in the correct position:
