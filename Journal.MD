@@ -1,11 +1,3 @@
-# 4/10/2026  6 AM - Researching the correct controller
-
-_Time spent: 7h_
-
-In this session, I researched many controllers for my build and first, I thought of an ESP32 Controller. However, what happened was that a friends said I can use an Arduino Nano. I misunderstood for Uno and I actually thought of using an Uno for my project. Because of that, my design got rejected and I got feedback saying that Arduino Uno is overkill and that Seeed Studio XIAO RP2040 does the job at a fraction of the cost. I researched about that microcotroller with ChatGPT and GPT told me that Seeed Studio XIAO RP2040 is a really good choice for my project since it has better performance and is cheap.
-
-![image](https://stasis.hackclub-assets.com/images/1775869579618-6w9fae.png)
-
 # 4/10/2026  6 AM - Servo Holder Design
 
 _Time spent: 7h_
@@ -14,17 +6,9 @@ First, I shared my OnShape design so that my friend can 3D print my parts. Howev
 
 ![image](https://stasis.hackclub-assets.com/images/1775869300662-jd9sh6.png)
 
-# 4/10/2026  6 AM - Finalizing my BOM
-
-_Time spent: 7h_
-
-In this session, I was researching almost every single component that was in my BOM and making sure they are necessary for my build. Also, during my research, I was making sure that I sanity check my materials with ChatGPT so that I am in the right track and that I don't get myself misguided during the build stage. Also, I made sure that I don't buy the wrong material and replicate my materials, making the worst mistake to get my design rejected. Also, I made sure that my materials aren't unnecessary and that they serve some purpose to my build, especially ChatGPT would give me suggestions for my BOM.
-
-![image](https://stasis.hackclub-assets.com/images/1775868636624-spqmz8.png)
-
 # 4/10/2026  6 AM - Researching Communications with ChatGPT
 
-_Time spent: 7h_
+_Time spent: 2h_
 
 In this session, I was researching the communications about which component should connect to which and what I specifically need for connection. For example, I researched the washers, wires, and how I connect my microcontroller to my servo. Also, I was asking ChatGPT how to manage my connections since I am using a Seeed Studio Controller and not an Arduino Uno microcontroller. I also made sure I sanity checked my materials with ChatGPT so that I am on the right track for my build.
 
@@ -32,7 +16,7 @@ In this session, I was researching the communications about which component shou
 
 # 4/10/2026  6 AM - TinkerCAD
 
-_Time spent: 7h_
+_Time spent: 2.5h_
 
 I was new to TinkerCAD, so I just tried some buttons on how to wire my components properly for a neat diagram. Then, I made my best connections I could make. However, ChatGPT said that my connections were off somewhere, so I spent some time changing the color of my wires and specifying the connections properly. For example, I made sure the servo ground was connected to the controller ground for a shared communication and I made sure that there was a specific source for my electronic components like my battery pack and my microcontroller.
 
