@@ -1,3 +1,44 @@
+# 5/19/2025  6 AM - 3D Printing Parts for my Gripper
+
+_Time spent: 0.5h_
+
+In this session, I made sure my parts for the gripper project were 3D printed and I tried laying out the mechanical setup so that everything can function properly and my gripper project will work according to my plans, hence making sure the gripper does its job properly and matches the CAD Design.
+
+![image](https://stasis.hackclub-assets.com/images/1779239000619-8pwo61.png)
+![image](https://stasis.hackclub-assets.com/images/1779239007024-xfd40o.png)
+
+# 5/19/2025  6 AM - Electronics Setup
+
+_Time spent: 7h_
+
+In this session, I set up the electronics to ensure the electronic setup will make the servo horn rotate properly and my mechanics work properly. I made sure the Seeed Studio XIAO RP2040 controller was placed correctly on the breadboard and the wires were placed on the correct pin so that the communication happens properly between the controller and the Servo.
+
+![image](https://stasis.hackclub-assets.com/images/1779238766720-pfden5.png)
+
+# 5/19/2026  6 AM - Working on the Firmware for my Project
+
+_Time spent: 7h_
+
+In this session, I worked on the code to make my Servo Horn rotate. That is because if my Servo Horn rotates properly, then my Pinion can rotate properly. Also, if my pinion rotates properly, then the rack will be able to slide back and forth, driving the actuator, which will make the two grippers move, hence applying the mechanism of my project.
+
+![image](https://stasis.hackclub-assets.com/images/1779238219010-7q48rk.png)
+
+# 5/19/2026  6 AM - Learning what a Robot Gripper clearly does
+
+_Time spent: 7h_
+
+In this session, I clearly learned about the mechanics of my Robot Gripper and what it does. Then, I learned about the parts that make it work, what operates the gripper and its mechanisms. Also, I imagined the layout of my project and planned how the Software integrates with the Hardware for this detailed end-to-end project.
+
+![image](https://stasis.hackclub-assets.com/images/1779237760751-8hro13.png)
+
+# 5/19/2026  6 AM - Onshape Tutorial
+
+ _Time spent: 7h_
+
+In this session, I learned about OnShape with a simple tutorial since I was really new to cadding and I have never worked with CAD before. I just followed a simple tutorial since I didn't want to stress myself and I really wanted to get a glimpse into CAD.
+
+![image](https://stasis.hackclub-assets.com/images/1779236592095-k9tgoh.png)
+
 # 4/10/2026  6 AM - Servo Holder Design
 
 _Time spent: 7h_
