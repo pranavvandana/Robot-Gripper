@@ -101,3 +101,4 @@ I tested the movement of the gripper and adjusted the angles in the code (for ex
 Step 6: Integrate with Hardware
 After confirming the servo worked correctly, I used the same code with my actual Seeed Studio XIAO RP2040, ensuring the signal pin matched my wiring setup.
 
+<img width="1852" height="104" alt="image" src="https://github.com/user-attachments/assets/5c8c5788-c90e-4ea8-b4f0-e3ebf093df3a" />
